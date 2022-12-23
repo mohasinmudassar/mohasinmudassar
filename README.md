@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mohasin Mudassar!</h1>
-<h4 align="center">Working as AWS Cloud Engineer and DevOps Engineer.</h4>
+<h4 align="center">DevOps | AWS | Python.</h4>
 </div>
 
 <div align="center">
