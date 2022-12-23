@@ -67,11 +67,12 @@ You can click the Preview link to take a look at your changes.
      <br>
   </div>    
 </div>
-
+<!---
 <div>
   <br/>
   <h2 align="center"> My Current Activity </h2>
 <a><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=mohasinmudassar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</div>
+</div>-->
+
 
 ------
