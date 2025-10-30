@@ -1,4 +1,4 @@
-<!---
+asä<!---
 - 👋 Hi, I’m @mohasinmudassar
 - 👀 I’m interested in Devops, AWS, Python
 - 🌱 I’m currently learning Devops
@@ -37,10 +37,6 @@ You can click the Preview link to take a look at your changes.
   <div>
     <h2 align="center"> 📊 Github Statistics </h2>
       <br/>
-        <p align="center">
-          <a href="https://github.com/mohasinmudassar">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasinmudassar&count_private=true&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="mohasin mudassar :: Top Langs" /></a>
-        </p>
         <p align="center">
           <a href="https://github.com/mohasinmudassar">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohasinmudassar&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
