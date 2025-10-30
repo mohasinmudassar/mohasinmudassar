@@ -1,4 +1,3 @@
-asä<!---
 - 👋 Hi, I’m @mohasinmudassar
 - 👀 I’m interested in Devops, AWS, Python
 - 🌱 I’m currently learning Devops
