@@ -1,7 +1,7 @@
 <div align="center">
 # Mohasin Mudassar
  
-**Cloud &amp; DevOps Engineer** &nbsp;·&nbsp; Bamberg, Germany
+**Cloud &amp; DevOps Engineer** &nbsp;·&nbsp; Germany
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohasinmudassar.github.io-2C6A5C?style=for-the-badge)](https://mohasinmudassar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohasin-mudassar/)
