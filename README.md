@@ -10,6 +10,7 @@
  
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,githubactions,argocd,python,linux,grafana&theme=dark&perline=10" alt="AWS, Azure, Terraform, Kubernetes, Docker, GitHub Actions, Argo CD, Python, Linux, Grafana" />
 </div>
+
 ## About
  
 I build and operate cloud platforms on AWS and Azure. Terraform provisions the environment, GitHub Actions and Argo CD ship to it, and Datadog tells me when it breaks before a customer does. Three years of that so far, across consulting and product teams.
@@ -32,13 +33,13 @@ Currently finishing an M.Sc. in International Software Systems Science at the Un
  
 ## Stack
  
-**Cloud** AWS (EKS, EC2, VPC, IAM, RDS, Lambda, S3) · Azure (AKS, VNets, Storage)
-**Infrastructure as code** Terraform · Ansible
-**Containers** Docker · Kubernetes · Helm · NGINX Ingress
-**Delivery** GitHub Actions · Jenkins · Argo CD · GitOps
-**Observability** Datadog · Grafana · CloudWatch · PagerDuty · SLOs and error budgets
-**Identity** IAM least privilege · OIDC · OAuth2 · Keycloak · SSO
-**Everything else** Python · Bash · Linux · PostgreSQL · Cassandra
+- **Cloud** AWS (EKS, EC2, VPC, IAM, RDS, Lambda, S3) · Azure (AKS, VNets, Storage)
+- **Infrastructure as code** Terraform · Ansible
+- **Containers** Docker · Kubernetes · Helm · NGINX Ingress
+- **Delivery** GitHub Actions · Jenkins · Argo CD · GitOps
+- **Observability** Datadog · Grafana · CloudWatch · PagerDuty · SLOs and error budgets
+- **Identity** IAM least privilege · OIDC · OAuth2 · Keycloak · SSO
+- **Everything else** Python · Bash · Linux · PostgreSQL · Cassandra
  
 ## Certification
  
