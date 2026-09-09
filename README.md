@@ -24,12 +24,12 @@ Currently finishing an M.Sc. in International Software Systems Science at the Un
 | | |
 |---|---|
 | **[EKS GitOps platform](https://github.com/mohasinmudassar/retail-store-app-deployment)** | Terraform-provisioned EKS cluster with Argo CD, NGINX Ingress and cert-manager. AWS's multi-service retail sample runs on top as the workload the platform layer is mine, the app is the payload. |
-| **[AWS cost optimiser](https://github.com/mohasinmudassar/Automated-AWS-Cost-Optimization-System)** | Serverless auditor that sweeps every region for idle EC2 instances, target-less load balancers and unused NAT Gateways, resolves the owner from tags or CloudTrail, and reports to them before anything gets removed. |
+| **[AWS cost optimiser](https://github.com/mohasinmudassar/Automated-AWS-Cost-Optimization-System)** | This is more than just another idle-resource detector it’s a governance workflow for unused AWS infrastructure. It scans every region for idle EC2 instances, load balancers with no registered targets, and unused NAT Gateways. It then identifies the owner using resource tags or CloudTrail, gives them a grace period, and opens a pull request against the relevant Terraform repository instead of deleting anything automatically. The entire solution is provisioned with Terraform, and the detection logic is covered by a pytest/moto test suite.|
 | **[Portfolio site](https://github.com/mohasinmudassar/mohasinmudassar.github.io)** | Next.js static export. Longer write-ups of the projects above, with architecture diagrams. |
  
 <!-- After renaming the repos, update the two links above. GitHub redirects old URLs, so nothing breaks in the meantime. -->
  
-**Working on now:** rebuilding the cost optimiser properly Terraform for the whole deployment instead of a manual runbook, pytest and moto over the detectors, OIDC in place of static keys, and remediation that opens a pull request against the target Terraform repo rather than deleting the resource outright.
+**Working on now:** the cost optimiser's governance rebuild — Terraform for the whole deployment, pytest and moto over the detectors, remediation that opens a pull request instead of deleting the resource outright — is largely shipped. What's left: a first run against a real account for actual evidence, and OIDC once CI starts deploying rather than just validating.
  
 ## Stack
  
